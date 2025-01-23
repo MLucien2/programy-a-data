@@ -1,8 +1,8 @@
 body{
+    font-family: monospace;
     background-image: url("../meme/background.jpg");
     background-repeat: no-repeat;
     background-size:cover;
-    font-family: monospace;
 }
 main{
     max-width: 800px;
