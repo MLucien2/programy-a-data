@@ -5,7 +5,7 @@ body{
     background-size:cover;
 }
 p{
-    font-size: larger;
+    font-size:larger;
 }
 main{
     max-width: 800px;
@@ -16,7 +16,7 @@ main{
 }
 h2, h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: large;
+    font-size: x-large;
     text-align: center;
 }
 footer{
